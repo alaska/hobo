@@ -17,6 +17,6 @@ These images are intended for local development only. Hence the `config.vm.netwo
 PRs very welcome!
 
 - Add more services
-- Something better than hard-coding to 10.0.0.0/24 if possible
+- Something better than hard-coding to 10.0.0.0/24. Maybe Zeroconf?
 - Document usage on each machine and any extensions and how to use them (if applicable)
 - Use [Otto](https://ottoproject.io/) instead? ;)
